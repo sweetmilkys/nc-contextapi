@@ -15,8 +15,8 @@ Learning how you will be able to use the new Context API to replace redux in you
 
 ## Curriculum
 
-- [x] [#1 Introduction]()
-- [ ] [#2 Setup]()
+- [x] [#1 Introduction](https://github.com/sweetmilkys/nc-contextapi/commit/022394b718a9965537e0e7555772d7f854bfa4f1)
+- [x] [#2 Setup]()
 - [ ] [#3 Creating the Store]()
 - [ ] [#4 Consuming the Store]()
 - [ ] [#5 Updating the Store]()
@@ -34,6 +34,34 @@ Learning how you will be able to use the new Context API to replace redux in you
 </br>
 
 ## Libray
+
+- [styled-components](https://www.styled-components.com/docs)  
+  Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress
+
+  ```
+  yarn add styled-components
+  ```
+
+- [styled-reset](https://github.com/zacanger/styled-reset#readme)  
+  Reset CSS for styled-components
+
+  ```
+  yarn add styled-reset
+  ```
+
+- [styled-flex-component](https://github.com/SaraVieira/styled-flex-component#readme)  
+  Flex Element for not writing any more custom flex styles because fuck that
+
+  ```
+  yarn add styled-flex-component
+  ```
+
+- [typography](https://github.com/KyleAMathews/typography.js)  
+  A powerful toolkit for building websites with beautiful typography.
+
+  ```
+  yarn add typography
+  ```
 
 </br>
 
