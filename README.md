@@ -16,8 +16,8 @@ Learning how you will be able to use the new Context API to replace redux in you
 ## Curriculum
 
 - [x] [#1 Introduction](https://github.com/sweetmilkys/nc-contextapi/commit/022394b718a9965537e0e7555772d7f854bfa4f1)
-- [x] [#2 Setup]()
-- [ ] [#3 Creating the Store]()
+- [x] [#2 Setup](https://github.com/sweetmilkys/nc-contextapi/commit/82904c392e52231bceae6862b9947ccab2cfd604)
+- [x] [#3 Creating the Store]()
 - [ ] [#4 Consuming the Store]()
 - [ ] [#5 Updating the Store]()
 - [ ] [#6 Rendering the Notifications]()
@@ -62,6 +62,13 @@ Learning how you will be able to use the new Context API to replace redux in you
   ```
   yarn add typography
   ```
+
+- [react-fontawesome](https://github.com/FortAwesome/react-fontawesome)
+  Font Awesome 5 React component
+
+```
+yarn add react-fontawesome
+```
 
 </br>
 
