@@ -18,8 +18,8 @@ Learning how you will be able to use the new Context API to replace redux in you
 - [x] [#1 Introduction](https://github.com/sweetmilkys/nc-contextapi/commit/022394b718a9965537e0e7555772d7f854bfa4f1)
 - [x] [#2 Setup](https://github.com/sweetmilkys/nc-contextapi/commit/82904c392e52231bceae6862b9947ccab2cfd604)
 - [x] [#3 Creating the Store](https://github.com/sweetmilkys/nc-contextapi/commit/ee0408fe5bb634d6ffd90d2fe751585d775c92c7)
-- [x] [#4 Consuming the Store]()
-- [ ] [#5 Updating the Store]()
+- [x] [#4 Consuming the Store](https://github.com/sweetmilkys/nc-contextapi/commit/7619dc26d141843afce086823bc8e2a69cc16382)
+- [x] [#5 Updating the Store]()
 - [ ] [#6 Rendering the Notifications]()
 - [ ] [#7 Counting Unseen Notifications]()
 - [ ] [#8 Deleting and Seeing Notifications]()
@@ -110,3 +110,7 @@ Context는 단계마다 일일이 props를 전달하지 않고도 컴포넌트 �
     {value => /* context 값을 이용한 렌더링 */}
   </MyContext.Consumer>
   ```
+
+### 하위 컴포넌트에서 context 업데이트
+컴포넌트 트리 하위 깊숙이 있는 컴포넌트에서 context를 업데이트 하려면 context를 통해 매서드를 전달.  
+**반드시 Provider에 포함시킬 함수는 construct에 있어야 함**
