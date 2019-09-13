@@ -22,8 +22,8 @@ Learning how you will be able to use the new Context API to replace redux in you
 - [x] [#5 Updating the Store](https://github.com/sweetmilkys/nc-contextapi/commit/f25e06d1eb0608b189b4037ff3ef23791eb8858a)
 - [x] [#6 Rendering the Notifications](https://github.com/sweetmilkys/nc-contextapi/commit/2bcf48f88cbb927c232836f201ba62204a25eb2d)
 - [x] [#7 Counting Unseen Notifications](https://github.com/sweetmilkys/nc-contextapi/commit/c70420adecd28b3ca6960ccf0c83dce720085c2e)
-- [x] [#8 Deleting and Seeing Notifications]()
-- [ ] [#9 Conclusions]()
+- [x] [#8 Deleting and Seeing Notifications](https://github.com/sweetmilkys/nc-contextapi/commit/ee64e94971312966ee7dd3e8cd4e247e8831a233)
+- [x] #9 Conclusions
 
 </br>
 
